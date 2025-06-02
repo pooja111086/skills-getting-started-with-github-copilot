@@ -52,6 +52,12 @@ activities = {
         "max_participants": 15,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Lawn Tennis Club": {
+        "description": "Learn and play lawn tennis, participate in friendly matches and tournaments",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "max_participants": 10,
+        "participants": ["grace@mergington.edu", "henry@mergington.edu"]
+    },
     # Artistic activities
     "Art Club": {
         "description": "Explore painting, drawing, and other visual arts",
